@@ -1,0 +1,1 @@
+curl -X GET https://INSTANCE_URL/services/data/v29.0/chatter/users/me -H "X-PrettyPrint: 1" -H 'Authorization: Bearer YOUR_ACCESS_TOKEN'

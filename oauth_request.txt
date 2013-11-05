@@ -1,0 +1,1 @@
+curl --form client_id=CONNECTED_APP_CONSUMER_KEY --form client_secret=CONNECTED_APP_CONSUMER_SECRET --form grant_type=password --form username=YOUR_USERNAME --form password=YOUR_PASSWORD_AND_SECURITY_TOKEN -H "X-PrettyPrint: 1" -X POST https://na1.salesforce.com/services/oauth2/token
